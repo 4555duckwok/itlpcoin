@@ -2,6 +2,7 @@ package com.kdp.java;
 
 public class HelloWorld {
 private String test1;
+private String terr;
 	/**
 	 * @param args
 	 */
