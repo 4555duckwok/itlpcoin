@@ -1,7 +1,7 @@
 package com.kdp.java;
 
 public class HelloWorld {
-private String test;
+private String test1;
 	/**
 	 * @param args
 	 */
