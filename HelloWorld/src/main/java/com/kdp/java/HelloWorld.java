@@ -3,6 +3,7 @@ package com.kdp.java;
 public class HelloWorld {
 private String test1;
 private String terr;
+private String terr2;
 	/**
 	 * @param args
 	 */
