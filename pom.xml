@@ -11,16 +11,5 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/ma
         <module>HelloWorld</module>
         <module>JunitTesting</module>
 </modules>
-<dependencies>
-<dependency>
-  <groupid>junit</groupid>
-  <artifactid>junit</artifactid>
-  <version>4.9</version>
-</dependency>
-<dependency>
-  <groupid>org.seleniumhq.selenium</groupid>
-  <artifactid>selenium-java</artifactid>
-  <version>2.25.0</version>
-</dependency>
-</dependencies>
+
 </project>
